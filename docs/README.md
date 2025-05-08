@@ -1,5 +1,7 @@
 # RTSP with FFMpeg
 
+Upload link: [<kbd>Gitbook</kbd>](https://edenouos-organization.gitbook.io/notes/c-rtsp)[<kbd>Github</kbd>](https://github.com/eden-ouob/RTSP)
+
 <figure><img src=".gitbook/assets/LINE_20250508_163017.gif" alt=""><figcaption></figcaption></figure>
 
 ### RTSP Command
